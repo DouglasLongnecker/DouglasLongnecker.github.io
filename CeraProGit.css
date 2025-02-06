@@ -1,30 +1,30 @@
 @font-face {
-  font-family: 'Cera Pro Black';
+  font-family: '"Cera Pro Black"';
   font-style: normal;
   src: url(https://douglaslongnecker.github.io/CeraProBlack.ttf)
 }
 @font-face {
-  font-family: 'Cera Pro Black Italic';
-  font-style: normal;
+  font-family: '"Cera Pro Black Italic"';
+  font-style: italic;
   src: url(https://douglaslongnecker.github.io/CeraProBlackItalic.ttf)
 }
 @font-face {
-  font-family: 'Cera Pro Bold';
+  font-family: '"Cera Pro Bold"';
   font-style: normal;
   src: url(https://douglaslongnecker.github.io/CeraProBold.ttf)
 }
 @font-face {
-  font-family: 'Cera Pro Light';
+  font-family: '"Cera Pro Light"';
   font-style: normal;
   src: url(https://douglaslongnecker.github.io/CeraProLight.ttf)
 }
 @font-face {
-  font-family: 'Cera Pro Medium';
+  font-family: '"Cera Pro Medium"';
   font-style: normal;
   src: url(https://douglaslongnecker.github.io/CeraProMedium.ttf)
 }
 @font-face {
-  font-family: 'Cera Pro Regular Italic';
-  font-style: normal;
+  font-family: '"Cera Pro Regular Italic"';
+  font-style: italic;
   src: url(https://douglaslongnecker.github.io/CeraProRegularItalic.ttf)
 }
