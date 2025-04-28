@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'Biennale Bold';
+  font-style: normal;
+  src: url(http://assets2.dutchie.com/fonts/Biennale-Bold.otf)
+}
+@font-face {
+  font-family: 'Biennale Bold Italic';
+  font-style: italic;
+  src: url(http://assets2.dutchie.com/fonts/Biennale-BoldIt.otf)
+}
+@font-face {
+  font-family: 'Biennale Heavy';
+  font-style: normal;
+  src: url(http://assets2.dutchie.com/fonts/Biennale-Heavy.otf)
+}
+@font-face {
+  font-family: 'Biennale Heavy Italic';
+  font-style: italic;
+  src: url(http://assets2.dutchie.com/fonts/Biennale-HeavyIt.otf)
+}
+@font-face {
+  font-family: 'Biennale Light';
+  font-style: normal;
+  src: url(http://assets2.dutchie.com/fonts/Biennale-Light.otf)
+}
+@font-face {
+  font-family: 'Biennale Light Italic';
+  font-style: italic;
+  src: url(http://assets2.dutchie.com/fonts/Biennale-LightIt.otf)
+}
+@font-face {
+  font-family: 'Biennale Medium';
+  font-style: normal;
+  src: url(http://assets2.dutchie.com/fonts/Biennale-Medium.otf)
+}
+@font-face {
+  font-family: 'Biennale Medium Italic';
+  font-style: italic;
+  src: url(http://assets2.dutchie.com/fonts/Biennale-MediumIt.otf)
+}
+@font-face {
+  font-family: 'Biennale Regular';
+  font-style: normal;
+  src: url(http://assets2.dutchie.com/fonts/Biennale-Regular.otf)
+}
+@font-face {
+  font-family: 'Biennale Regular Italic';
+  font-style: italic;
+  src: url(http://assets2.dutchie.com/fonts/Biennale-RegularIt.otf)
+}
+@font-face {
+  font-family: 'Helvetica Now Text Bold Italic';
+  font-style: italic;
+  src: url(http://assets2.dutchie.com/fonts/HelveticaNowText-BdIt.ttf)
+}
+@font-face {
+  font-family: 'Helvetica Now Text Bold';
+  font-style: normal;
+  src: url(http://assets2.dutchie.com/fonts/HelveticaNowText-Bold.ttf)
+}
+@font-face {
+  font-family: 'Helvetica Now Text Italic';
+  font-style: italic;
+  src: url(http://assets2.dutchie.com/fonts/HelveticaNowText-It.otf)
+}
+@font-face {
+  font-family: 'Helvetica Now Text Light';
+  font-style: normal;
+  src: url(http://assets2.dutchie.com/fonts/HelveticaNowText-Light.ttf)
+}
+@font-face {
+  font-family: 'Helvetica Now Text Light Italic';
+  font-style: italic;
+  src: url(http://assets2.dutchie.com/fonts/HelveticaNowText-LtIt.ttf)
+}
+@font-face {
+  font-family: 'Helvetica Now Text Medium Italic';
+  font-style: italic;
+  src: url(http://assets2.dutchie.com/fonts/HelveticaNowText-MdIt.ttf)
+}
+@font-face {
+  font-family: 'Helvetica Now Text Medium';
+  font-style: normal;
+  src: url(http://assets2.dutchie.com/fonts/HelveticaNowText-Medium.ttf)
+}
+@font-face {
+  font-family: 'Helvetica Now Text Regular';
+  font-style: normal;
+  src: url(http://assets2.dutchie.com/fonts/HelveticaNowText-Regular.otf)
+} 
