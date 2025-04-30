@@ -1,7 +1,7 @@
 {
     "versionCode": 2,
     "versionName": "1.1",
-    "url": "https://DouglasLongencker.github.io/bumblebee/app-debug.apk",
+    "url": "https://DouglasLongnecker.github.io/bumblebee/app-debug.apk",
     "releaseNotes": "• Added automatic update system\n• Bug fixes and improvements",
     "minSdkVersion": 34,
     "requiredUpdate": false
