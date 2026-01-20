@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="dragon_idle.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.902607"
+     inkscape:cx="55.990619"
+     inkscape:cy="61.497893"
+     inkscape:window-width="1440"
+     inkscape:window-height="752"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13" />
+  <!-- Dragon body -->
+  <ellipse
+     cx="60"
+     cy="70"
+     rx="30"
+     ry="25"
+     fill="#8B0000"
+     stroke="#000"
+     stroke-width="2"
+     id="ellipse1" />
+  <!-- Dragon head -->
+  <ellipse
+     cx="40"
+     cy="50"
+     rx="20"
+     ry="18"
+     fill="#A52A2A"
+     stroke="#000"
+     stroke-width="2"
+     id="ellipse2" />
+  <!-- Dragon snout -->
+  <ellipse
+     cx="23.880806"
+     cy="52.815891"
+     rx="12"
+     ry="8"
+     fill="#8b0000"
+     stroke="#000000"
+     stroke-width="2"
+     id="ellipse3" />
+  <!-- Nostril -->
+  <circle
+     cx="19.47286"
+     cy="54.079464"
+     r="2"
+     fill="#000000"
+     id="circle3" />
+  <!-- Dragon eye -->
+  <circle
+     cx="42.713905"
+     cy="40.798687"
+     r="4"
+     fill="#ffd700"
+     stroke="#000000"
+     stroke-width="1"
+     id="circle4" />
+  <circle
+     cx="43.305958"
+     cy="40.614578"
+     r="2"
+     fill="#000000"
+     id="circle5" />
+  <circle
+     cx="33.281479"
+     cy="37.584782"
+     r="4"
+     fill="#ffd700"
+     stroke="#000000"
+     stroke-width="1"
+     id="circle4-7" />
+  <circle
+     cx="32.445721"
+     cy="36.890739"
+     r="2"
+     fill="#000000"
+     id="circle5-0" />
+  <!-- Dragon horns -->
+  <polygon
+     points="40,42 36,42 38,35 "
+     fill="#8b0000"
+     stroke="#000000"
+     stroke-width="1.5"
+     id="polygon5"
+     transform="translate(1.6317849,-13.054279)" />
+  <polygon
+     points="50,40 46,40 48,33 "
+     fill="#8b0000"
+     stroke="#000000"
+     stroke-width="1.5"
+     id="polygon6"
+     transform="translate(2.4476773,-6.1191933)" />
+  <!-- Dragon wings (folded) -->
+  <path
+     d="M 75.441415,47.389041 Q 93.916184,38.241205 100.93266,46.945748 98.178904,57.781655 77.572777,57.159266 Z"
+     fill="#600000"
+     stroke="#000000"
+     stroke-width="2"
+     opacity="0.8"
+     id="path6" />
+  <path
+     d="m 83.123481,50.846404 q 14.301931,0.674365 15.415022,8.208357 -4.43265,5.035038 -17.457827,-0.473569 z"
+     fill="#8b0000"
+     stroke="#000000"
+     stroke-width="1.5"
+     opacity="0.9"
+     id="path7" />
+  <!-- Dragon tail -->
+  <path
+     d="M 85 75 Q 100 80 105 90 Q 102 92 100 88 Q 95 82 85 78 Z"
+     fill="#8B0000"
+     stroke="#000"
+     stroke-width="2"
+     id="path8" />
+  <!-- Tail spikes -->
+  <polygon
+     points="98,78 100,82 95,82 "
+     fill="#600000"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon8"
+     transform="translate(1.6317849,-0.40794622)" />
+  <polygon
+     points="103,82 105,86 100,86 "
+     fill="#600000"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon9"
+     transform="translate(1.835758)" />
+  <!-- Front leg -->
+  <rect
+     x="45"
+     y="85"
+     width="8"
+     height="15"
+     fill="#8B0000"
+     stroke="#000"
+     stroke-width="2"
+     id="rect9" />
+  <ellipse
+     cx="49"
+     cy="101"
+     rx="6"
+     ry="4"
+     fill="#600000"
+     stroke="#000"
+     stroke-width="1.5"
+     id="ellipse9" />
+  <!-- Back leg -->
+  <rect
+     x="70"
+     y="85"
+     width="8"
+     height="15"
+     fill="#8B0000"
+     stroke="#000"
+     stroke-width="2"
+     id="rect10" />
+  <ellipse
+     cx="74"
+     cy="101"
+     rx="6"
+     ry="4"
+     fill="#600000"
+     stroke="#000"
+     stroke-width="1.5"
+     id="ellipse10" />
+  <!-- Belly scales (detail) -->
+  <ellipse
+     cx="60"
+     cy="75"
+     rx="15"
+     ry="12"
+     fill="#CD5C5C"
+     opacity="0.6"
+     id="ellipse11" />
+  <!-- Back spikes -->
+  <polygon
+     points="58,54 61,60 55,60 "
+     fill="#600000"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon11"
+     transform="translate(6.9350858,-16.113876)" />
+  <polygon
+     points="65,52 68,58 62,58 "
+     fill="#600000"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon12"
+     transform="translate(9.5867362,-11.626467)" />
+  <polygon
+     points="73,54 76,60 70,60 "
+     fill="#600000"
+     stroke="#000000"
+     stroke-width="1"
+     id="polygon13"
+     transform="translate(12.238387,-14.890037)" />
+</svg>

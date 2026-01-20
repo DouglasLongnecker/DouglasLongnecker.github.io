@@ -1,0 +1,26 @@
+<svg width="200" height="180" viewBox="0 0 200 180" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simple sailboat - idle -->
+  <!-- Hull -->
+  <path d="M 40 140 L 20 160 L 180 160 L 160 140 Z" fill="#8b4513" stroke="#000" stroke-width="3"/>
+  <path d="M 40 120 L 40 140 L 160 140 L 160 120 Z" fill="#a0522d" stroke="#000" stroke-width="3"/>
+
+  <!-- Mast -->
+  <rect x="95" y="30" width="10" height="110" fill="#654321" stroke="#000" stroke-width="2"/>
+
+  <!-- Main Sail -->
+  <path d="M 100 40 L 100 130 L 160 130 Z" fill="#ffffff" stroke="#000" stroke-width="2.5" opacity="0.9"/>
+
+  <!-- Front Sail -->
+  <path d="M 100 50 L 100 120 L 50 120 Z" fill="#f0f0f0" stroke="#000" stroke-width="2.5" opacity="0.85"/>
+
+  <!-- Sail details (seams) -->
+  <line x1="100" y1="60" x2="145" y2="130" stroke="#ccc" stroke-width="1"/>
+  <line x1="100" y1="80" x2="135" y2="130" stroke="#ccc" stroke-width="1"/>
+  <line x1="100" y1="100" x2="125" y2="130" stroke="#ccc" stroke-width="1"/>
+
+  <!-- Flag -->
+  <path d="M 100 30 L 100 50 L 125 40 Z" fill="#ff0000" stroke="#000" stroke-width="1.5"/>
+
+  <!-- Water line effect -->
+  <ellipse cx="100" cy="162" rx="85" ry="8" fill="#4a90e2" opacity="0.3"/>
+</svg>
