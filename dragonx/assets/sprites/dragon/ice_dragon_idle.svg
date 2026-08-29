@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <!-- Tail -->
+  <path d="M20 54 Q8 64 3 74" stroke="#1565c0" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <!-- Wing (back) -->
+  <path d="M30 37 L5 16 L22 38 Z" fill="#bbdefb" stroke="#1565c0" stroke-width="1.2" opacity="0.75"/>
+  <path d="M34 32 L10 12 L26 34 Z" fill="#90caf9" stroke="#1565c0" stroke-width="1.4" opacity="0.85"/>
+  <!-- Body -->
+  <ellipse cx="40" cy="49" rx="22" ry="17" fill="#1976d2" stroke="#0d47a1" stroke-width="2"/>
+  <!-- Neck -->
+  <ellipse cx="55" cy="36" rx="10" ry="12" fill="#1e88e5" stroke="#0d47a1" stroke-width="1.5"/>
+  <!-- Ice spikes on back -->
+  <polygon points="34,34 37,18 40,34" fill="#e3f2fd" stroke="#90caf9" stroke-width="1"/>
+  <polygon points="41,30 44,14 47,30" fill="#e3f2fd" stroke="#90caf9" stroke-width="1"/>
+  <polygon points="48,29 51,15 54,29" fill="#e3f2fd" stroke="#90caf9" stroke-width="1"/>
+  <!-- Head -->
+  <ellipse cx="63" cy="24" rx="14" ry="11" fill="#42a5f5" stroke="#0d47a1" stroke-width="2"/>
+  <!-- Snout -->
+  <ellipse cx="74" cy="27" rx="7" ry="5" fill="#64b5f6" stroke="#0d47a1" stroke-width="1.5"/>
+  <!-- Eye -->
+  <circle cx="67" cy="20" r="4" fill="white"/>
+  <circle cx="68" cy="20" r="2.2" fill="#01579b"/>
+  <circle cx="68.5" cy="19.5" r="0.8" fill="white"/>
+  <!-- Nostril -->
+  <circle cx="77" cy="27" r="1.5" fill="#0d47a1"/>
+  <!-- Icy breath hint -->
+  <path d="M78 24 Q85 21 89 18" stroke="#e3f2fd" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.55"/>
+  <!-- Legs -->
+  <ellipse cx="30" cy="64" rx="7" ry="10" fill="#1565c0" stroke="#0d47a1" stroke-width="1.5"/>
+  <ellipse cx="46" cy="64" rx="7" ry="10" fill="#1565c0" stroke="#0d47a1" stroke-width="1.5"/>
+  <!-- Claws -->
+  <path d="M24 72 L22 77 M28 73 L27 78 M32 72 L31 77" stroke="#0d47a1" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M40 72 L38 77 M44 73 L43 78 M48 72 L47 77" stroke="#0d47a1" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

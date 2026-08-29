@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
+  <!-- Tail (vivid magenta) -->
+  <path d="M18 54 Q6 66 2 76" stroke="#e040fb" stroke-width="7" fill="none" stroke-linecap="round"/>
+  <!-- Tail tip diamond -->
+  <polygon points="2,72 5,76 2,80 -1,76" fill="#f48fb1"/>
+
+  <!-- Wing (rainbow-layered) -->
+  <path d="M30 37 L4 14 L22 38 Z" fill="#ff1744" stroke="#b71c1c" stroke-width="1.2" opacity="0.82"/>
+  <path d="M34 32 L10 10 L26 34 Z" fill="#ff9100" stroke="#e65100" stroke-width="1.3" opacity="0.78"/>
+  <path d="M37 28 L16 6 L30 30 Z" fill="#ffd600" stroke="#f9a825" stroke-width="1" opacity="0.65"/>
+
+  <!-- Body (deep purple base) -->
+  <ellipse cx="40" cy="49" rx="22" ry="17" fill="#7b1fa2" stroke="#4a148c" stroke-width="2"/>
+  <!-- Belly (lighter) -->
+  <ellipse cx="40" cy="52" rx="14" ry="10" fill="#ab47bc" stroke="#7b1fa2" stroke-width="1"/>
+
+  <!-- Neck -->
+  <ellipse cx="55" cy="36" rx="10" ry="12" fill="#8e24aa" stroke="#4a148c" stroke-width="1.5"/>
+
+  <!-- Rainbow spine plates (red → orange → yellow → green → blue) -->
+  <polygon points="33,34 36,17 39,34" fill="#f44336" stroke="#ff1744" stroke-width="1"/>
+  <polygon points="40,30 43,13 46,30" fill="#ff9800" stroke="#ff6d00" stroke-width="1"/>
+  <polygon points="47,29 50,13 53,29" fill="#ffee58" stroke="#f9a825" stroke-width="1"/>
+  <polygon points="53,30 56,16 59,30" fill="#66bb6a" stroke="#2e7d32" stroke-width="1"/>
+
+  <!-- Head (vivid coral-red) -->
+  <ellipse cx="63" cy="24" rx="14" ry="11" fill="#e040fb" stroke="#4a148c" stroke-width="2"/>
+
+  <!-- Snout -->
+  <ellipse cx="74" cy="27" rx="7" ry="5" fill="#f48fb1" stroke="#880e4f" stroke-width="1.5"/>
+
+  <!-- Eye (golden) -->
+  <circle cx="67" cy="20" r="4.5" fill="white"/>
+  <circle cx="68" cy="20" r="2.5" fill="#f57f17"/>
+  <circle cx="68.5" cy="19.3" r="0.9" fill="white"/>
+
+  <!-- Slit pupil -->
+  <ellipse cx="68" cy="20" rx="0.8" ry="2" fill="#212121"/>
+
+  <!-- Nostril -->
+  <circle cx="77" cy="27" r="1.5" fill="#880e4f"/>
+
+  <!-- Rainbow breath (multi-beam) -->
+  <path d="M79 23 Q85 19 91 15" stroke="#f44336" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.75"/>
+  <path d="M79 25 Q85 22 91 18" stroke="#ff9800" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.75"/>
+  <path d="M79 27 Q85 24 91 22" stroke="#ffee58" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.75"/>
+  <path d="M79 29 Q85 27 90 26" stroke="#66bb6a" stroke-width="2.2" fill="none" stroke-linecap="round" opacity="0.7"/>
+
+  <!-- Legs (electric blue) -->
+  <ellipse cx="30" cy="64" rx="7" ry="10" fill="#1565c0" stroke="#0d47a1" stroke-width="1.5"/>
+  <ellipse cx="46" cy="64" rx="7" ry="10" fill="#1565c0" stroke="#0d47a1" stroke-width="1.5"/>
+
+  <!-- Rainbow claws -->
+  <path d="M24 72 L22 77 M28 73 L27 78 M32 72 L31 77" stroke="#e040fb" stroke-width="1.8" stroke-linecap="round"/>
+  <path d="M40 72 L38 77 M44 73 L43 78 M48 72 L47 77" stroke="#e040fb" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
